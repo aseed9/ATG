@@ -63,10 +63,6 @@ while main:
                     if sub == "6":
                         main = True
 
-                    else:
-                        print("Select a valid option!")
-                        sub = True    
-
                 except : 
                         print("Select a valid option!")
                         sub = True
@@ -97,11 +93,7 @@ while main:
                         sub2 = True
 
                     if sub2 == "3":
-                        main = True
-
-                    else:
-                        print("Select a valid option!")
-                        sub2 = True    
+                        main = True  
                 
                 except:
                     print("Select a valid option!")
@@ -130,10 +122,6 @@ while main:
                     
                     if sub3 == "9":
                         main = True
-
-                    else:
-                        print("Select a valid option!")
-                        sub3 = True
 
                 except:
                     print("Select a valid option!")
