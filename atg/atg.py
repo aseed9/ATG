@@ -63,6 +63,10 @@ while main:
                     if sub == "6":
                         main = True
 
+                    else:
+                        print("Select a valid option!")
+                        sub = True    
+
                 except : 
                         print("Select a valid option!")
                         sub = True
@@ -94,6 +98,10 @@ while main:
 
                     if sub2 == "3":
                         main = True
+
+                    else:
+                        print("Select a valid option!")
+                        sub2 = True    
                 
                 except:
                     print("Select a valid option!")
@@ -121,7 +129,12 @@ while main:
                     sub3 = input("Press 9 to move to parent menu : ")   
                     
                     if sub3 == "9":
-                        main = True  
+                        main = True
+
+                    else:
+                        print("Select a valid option!")
+                        sub3 = True
+
                 except:
                     print("Select a valid option!")
                     sub3 = True
