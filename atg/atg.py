@@ -82,7 +82,6 @@ while main:
                         print("The key to social engineering success is how believable your crafted scenario appears.")
                         print("The more believable it is, the higher chance of getting your target to do your bidding.")
                         print("http://www.social-engineer.org/framework/general-discussion/")
-                        print("http://www.social-engineer.org/framework/general-discussion/")
                         print("http://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/")
                         print("NOTE: WHEN SE-ing. Use your imagination.")
                         sub2 = True
