@@ -6,6 +6,7 @@ main = True
 sub = False
 sub2 = False
 sub3 = False 
+print("A good resource combining all of this step by step : http://pastebin.com/raw/cRYvK4jb")
 
 while main:
 
@@ -16,6 +17,7 @@ while main:
   3. Post Exploitation
   4. Exit
            """)
+
     main = input('Select Option : ')
 
     if main == "1":
