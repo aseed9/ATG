@@ -64,6 +64,7 @@ while main:
                         main = True
 
                 except : 
+                        print("Select a valid option!")
                         sub = True
 
     if main == "2":
@@ -95,6 +96,7 @@ while main:
                         main = True
                 
                 except:
+                    print("Select a valid option!")
                     sub2 = True              
 
     if main == "3":
@@ -121,13 +123,17 @@ while main:
                     if sub3 == "9":
                         main = True  
                 except:
+                    print("Select a valid option!")
                     sub3 = True
 
     if main == "4":
         quit()
 
     else:
-        main = True    
+        print("Select a valid option!")
+        main = True 
+
+#Expect US           
 
 
 
